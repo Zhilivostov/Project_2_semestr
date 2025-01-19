@@ -1,0 +1,2 @@
+It is simple simulator of stars. You can add planets(blue on the left mouse button) or stars(yellow on the right mouse button). Stars can absorb planet and increase their mass and size and can become black hole(magenta).
+And star can absorb another star or explode with him. The project is raw. I've been messing with SFML for too long, so instead of a full-fledged simulator of the movement of celestial bodies, what happened came out. Must work!
